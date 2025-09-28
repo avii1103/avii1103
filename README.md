@@ -1,4 +1,4 @@
-## Hi there, I'm working on this really cool neofetch type github readme thingy, so you'll prolly see that instead of this text by next, or whenever I'm free idk :3
+## Hi there, I'm working on this really cool neofetch type github readme thingy, so you'll prolly see that instead of this text by next week, or whenever I'm free idk :3
 
 <!--
 **avii1103/avii1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
